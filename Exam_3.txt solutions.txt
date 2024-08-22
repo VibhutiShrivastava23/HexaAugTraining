@@ -1,0 +1,27 @@
+Exam_3.txt solutions
+
+1. b)ParseException
+2. d) all the above
+3. B) B C Z
+4. A) B X Z
+5. B) 3 1
+6. B) 2 1
+7. B) Hi Program End
+8. B) Array Size Small
+9. D) Array Size Small
+10. D) Compile Time Error
+11. B) ArrayList
+12. C) Set
+13. B) LinkedHashSet
+14. D) ALL
+15. A) HashSet
+16. c) clear()
+17. C) Map
+18. B) Babbar
+19. B) 102
+20. D) All
+21. b) set()
+22. d) any of these
+23. B) compare(object, object)
+24. A) Generics
+25. C) Vector
